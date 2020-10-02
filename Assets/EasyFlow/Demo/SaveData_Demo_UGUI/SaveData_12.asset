@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05eb48494f1b84ed4902a1109ce7cec0, type: 3}
+  m_Name: SaveData_12
+  m_EditorClassIdentifier: 
+  coverCount: 100
+  coverCountLimit: 100
+  m_coverDistanceF: 100
+  coverDistanceLimit: 200
+  distanceRange: 98010000
+  coverDistance: {x: 100, y: 0, z: 0}
+  m_coverAngle: 0
+  coverSize: {x: 120, y: 90}
+  coverSizeLimit: {x: 200, y: 200}
+  coverDistanceZ: 0
+  coverDistanceZLimit: 200
+  m_coverDistanceZMode: 0
+  clickMode: 4
+  textureList:
+  - {fileID: 2800000, guid: 1de0efddcef154d218c39753b15f9d05, type: 3}
+  - {fileID: 2800000, guid: 397019a8e69f44062963e376cecde93b, type: 3}
+  - {fileID: 2800000, guid: f53e9af3156054e5d829a3c1caaf7c19, type: 3}
+  - {fileID: 2800000, guid: e9675738d422b403696e8ba440beeb85, type: 3}
+  - {fileID: 2800000, guid: 35943ab6593614df7ad9eca1ccc815f0, type: 3}
+  - {fileID: 2800000, guid: 5019bb5d730ca4f02a8203517593a9de, type: 3}
+  - {fileID: 2800000, guid: 24884bcea8dce4194ad56b0d556b5a6b, type: 3}
+  - {fileID: 2800000, guid: b9a596b373377467cb6858ccc94be4d6, type: 3}
+  - {fileID: 2800000, guid: 295710b959a6e424daa80e2f581c12c9, type: 3}
+  - {fileID: 2800000, guid: 410022bf79a3a4b0ca031dc1101c4966, type: 3}
+  - {fileID: 2800000, guid: 754914fe208b8446799ef89191079f57, type: 3}
+  - {fileID: 2800000, guid: 536861b7bbe8c48309d1e5c97dfce3c5, type: 3}
+  - {fileID: 2800000, guid: 98401aaf69bbb4aaa96b9ec95e1056d1, type: 3}
+  - {fileID: 2800000, guid: 8733212815eb546d58f3079a28350629, type: 3}
+  - {fileID: 2800000, guid: 9b7e8abc5342b4f428243bfb2fc1c3a5, type: 3}
+  textureMode: 1
+  dragPower: 1
+  dragPowerLimit: 3
+  dragMode: 0
+  dragRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  isInverseDrag: 0
+  isDragOnAxis: 1
+  isEffectAfterDrag: 1
+  isMoveToNearCover: 1
+  effectAfterDragTime: 1
+  effectAfterDragTimeLimit: 3
+  effectAfterDragCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 3
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  positionRate: 1
+  positionRateLimit: 10
+  positionInfluenceRange: 200
+  positionInfluenceRangeLimit: 1000
+  positionCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 3
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  isLookatCenter: 0
+  isRotateOnAxis: 1
+  rotateRate: 60
+  rotateRateLimit: 120
+  rotateInfluenceRange: 100
+  rotateInfluenceRangeLimit: 200
+  rotateCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 3
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  scaleRate: 0.5
+  scaleRateLimit: {x: -1, y: 2}
+  scaleInfluenceRange: 100
+  scaleInfluenceRangeLimit: 200
+  scaleCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  alphaRate: 1
+  alphaRateLimit: 2
+  alphaInfluenceRange: 200
+  alphaInfluenceRangeLimit: 600
+  alphaCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panelDepth: 0
+  panelDepthLimit: {x: 0, y: 100}
+  coverDepth: {x: 0, y: 1000}
+  coverDepthLimit: {x: -1000, y: 1000}
+  depthInfluenceRange: 500
+  depthInfluenceRangeLimit: 1000
+  depthCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 3
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  isPanelMove: 0
+  beginFlowIndex: 0
+  coverMode: 3

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e68cf0cb1475d4e00ae90bb6ef203b7f, type: 3}
+  m_Name: Kyowon Logger
+  m_EditorClassIdentifier: 
+  loglevel: 1
+  savePath: logs
+  waittime: 1000
+  fileType: 1
+  isIgnoreTraceInfo: 0
+  maxsizelogfile: 1
+  autodelete: 0
+  autodeletewaitdays: 1
+  logcolor: {r: 0, g: 0, b: 0, a: 1}
+  warningcolor: {r: 1, g: 0.7118232, b: 0, a: 1}
+  errorcolor: {r: 1, g: 0, b: 0.1434412, a: 1}
+  exceptioncolor: {r: 1, g: 0, b: 0.17924786, a: 1}

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C9091EBB-8636-D10E-F335-73DC6085CA9F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/minigame_race/scripts/RaceManager.cs">
+    <Files>
+      <File FileName="../../007_DoyoseChinese/unity/DoyoseChinese/Assets/InLearning/Course_C/30_WarmUpE/Scripts/WarmUpE_DropZone.cs" Line="22" Column="38" />
+      <File FileName="../../007_DoyoseChinese/unity/DoyoseChinese/Assets/InLearning/Common/Sctipts/UI/Drag/UIDragBehaviour.cs" />
+      <File FileName="../../007_DoyoseChinese/unity/DoyoseChinese/Assets/InLearning/Course_C/30_WarmUpE/Scripts/WarmUpE_DragPiece.cs" />
+      <File FileName="../../007_DoyoseChinese/unity/DoyoseChinese/Assets/InLearning/Course_A/33_QuizTimeB/Scripts/QuizTimeB_Page_02.cs" />
+      <File FileName="../../007_DoyoseChinese/unity/DoyoseChinese/Assets/InLearning/Course_A/33_QuizTimeB/Scripts/QuizTimeB_Manager.cs" />
+      <File FileName="../../007_DoyoseChinese/unity/DoyoseChinese/Assets/InLearning/Course_C/11_WarmUpB/Scripts/Puzzle.cs" />
+      <File FileName="../../007_DoyoseChinese/unity/DoyoseChinese/Assets/InLearning/Course_C/11_WarmUpB/Scripts/WarmUpB_Page.cs" />
+      <File FileName="../../007_DoyoseChinese/unity/DoyoseChinese/Assets/InLearning/Course_C/21_WarmUpC/Scripts/WarmUpC_Card.cs" />
+      <File FileName="Assets/minigame_baloon/scripts/BaloonRespone.cs" />
+      <File FileName="Assets/minigame_baloon/scripts/Baloon.cs" />
+      <File FileName="Assets/minigame_map/scripts/action.cs" />
+      <File FileName="Assets/Temp/Util/TestPitch.cs" />
+      <File FileName="Assets/minigame_race/scripts/Mover.cs" />
+      <File FileName="Assets/minigame_race/scripts/RaceManager.cs" Line="29" Column="1" />
+      <File FileName="Assets/minigame_race/scripts/RaceItem.cs" />
+      <File FileName="Assets/minigame_race/scripts/RaceQst.cs" />
+      <File FileName="Assets/minigame_race/scripts/RaceCar.cs" />
+      <File FileName="Assets/minigame_race/scripts/RaceRespone.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b88a0ad8-d7c7-4c31-ab1b-763005136757" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
